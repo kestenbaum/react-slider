@@ -4,7 +4,7 @@ export const slides = [
         url: 'https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/Genshin-Impact-Ganyu-1.jpg'
     },
   {
-       id: 1,
+        id: 1,
         url: 'https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/01/genshin-impact-ganyu-build-best.jpg'
     },
   {
