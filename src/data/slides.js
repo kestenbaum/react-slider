@@ -1,26 +1,33 @@
+import ganyu1 from '../data/img/ganyu1.png'
+import ganyu2 from '../data/img/ganyu2.png'
+import ganyu3 from '../data/img/ganyu3.png'
+import ganyu4 from '../data/img/ganyu4.png'
+import ganyu5 from '../data/img/ganyu5.png'
+import ganyu6 from '../data/img/ganyu6.png'
+
 export const slides = [
-  {
+    {
         id: 0,
-        url: 'https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/Genshin-Impact-Ganyu-1.jpg'
+        url: ganyu1
     },
-  {
+    {
         id: 1,
-        url: 'https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/01/genshin-impact-ganyu-build-best.jpg'
+        url: ganyu2
     },
-  {
+    {
         id: 2,
-        url: 'https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/Genshin-Impact-Ganyu.jpg'
+        url: ganyu3
     },
-  {
+    {
         id: 3,
-        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvnpNrCL5x1o3j5upIZxb60Jsi_Zhzfwy3bt1F4bGeCJA9iYG_WZjW2tJgesNN822n13M&usqp=CAU'
+        url: ganyu4
     },
-  {
-       id: 4,
-        url: 'https://cdn.gamekult.com/optim/images/news/30/3050834945/genshin-impact-ganyu-est-prete-pour-faire-des-heures-supplementaires-b2f1da51__1920_1080__0-0-1200-387.jpg'
+    {
+        id: 4,
+        url: ganyu5
     },
-  {
+    {
         id: 5,
-        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlReZhPjt333zU5lsNRYaJtP7xgUM91SHaPxnE34BswitPuu4gn7ngCCmnHG2kf2k9yB4&usqp=CAU'
-    },
-  ]
+        url: ganyu6
+    }
+]
